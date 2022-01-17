@@ -1,0 +1,13 @@
+{
+  "name": "Prometheus",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Prometheus": {
+        "$path": "MainModule"
+      }
+    }
+  }
+}
