@@ -1,11 +1,11 @@
 {
-  "name": "Prometheus",
+  "name": "RPM",
   "tree": {
     "$className": "DataModel",
 
     "ServerScriptService": {
       "$className": "ServerScriptService",
-      "Prometheus": {
+      "RPM": {
         "$path": "MainModule"
       }
     }
